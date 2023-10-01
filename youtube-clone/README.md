@@ -12,4 +12,4 @@
 
 ## Screen
 
-![](screen.gif)
+![](![Alt text](../screen.gif))
