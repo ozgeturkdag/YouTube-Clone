@@ -1,6 +1,6 @@
 # React + Vite
 
-# Libraries
+# Libraries that I used in this project
 
 - react-router-dom
 - axios
@@ -9,3 +9,7 @@
 - moment
 - react-player
 - tailwind
+
+## Screen
+
+![](screen.gif)
